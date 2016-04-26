@@ -1,6 +1,6 @@
-# Code Challenge - Riyadh Blog
+# Riyadh Blog
 
-This challenge asks that you create the website page shown in the provided screenshot image.
+Create the website page shown in the provided screenshot image.
 
 ## Tasks
 
@@ -17,3 +17,5 @@ Use CSS in the `style.css` file in the `css` folder to change different aspects 
 * change the background color to a gradient
 
 You can also try modifying these styles on-the-fly by modifying them with the [developer tools](https://www.youtube.com/watch?v=q3mWDijP_8w) of your [browser](http://www.sitepoint.com/edit-source-files-in-chrome/).
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-riyadh-blog' title='Code Challenge 1 - Riyadh Blog'>Code Challenge 1 - Riyadh Blog</a> on Learn.co and start learning to code for free.</p>
